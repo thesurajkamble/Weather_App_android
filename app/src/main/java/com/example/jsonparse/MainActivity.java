@@ -99,7 +99,7 @@ public class MainActivity extends AppCompatActivity {
                             public void onErrorResponse(VolleyError volleyError) {
 //                                Log.i("Error", "Something went wrong" + volleyError);
 
-                                Toast.makeText(getApplicationContext(),"error listener fired",Toast.LENGTH_SHORT).show();
+                                Toast.makeText(getApplicationContext(),"Invalid Location Entered.",Toast.LENGTH_SHORT).show();
                             }
                         }
 
