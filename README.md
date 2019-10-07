@@ -1,5 +1,5 @@
 # Weather_App_android
-an android app fetches weather data from openweather.org api and parses the json response .
+An android app fetches weather data from openweather.org api and parses the json response and displays the weather details.
 
 # Discription
 Weatherify android app to fetch json response and parse the same and displays the result on textview.
