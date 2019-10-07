@@ -27,8 +27,8 @@ public class MainActivity extends AppCompatActivity {
 
     //http://api.openweathermap.org/data/2.5/weather?q=Paris&appid=5f56d525d1619d0a2cd2eac4ce55588e
 
-    String baseURL = "http://api.openweathermap.org/data/2.5/weather?q=";
-    String API = "&appid=1ec85bcb1ece6d1108e5756503a12acd";
+    String baseURL = "API URL here";
+    String API = "API KEY here";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
