@@ -8,7 +8,14 @@ Weatherify android app to fetch json response and parse the same and displays th
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
+## Screenshots
+![GitHub Logo](/screenshots/1.jpg)              ![GitHub Logo](/screenshots/7.jpg)
 
+![GitHub Logo](/screenshots/2.jpg)              ![GitHub Logo](/screenshots/6.jpg)
+
+![GitHub Logo](/screenshots/3.jpg)              ![GitHub Logo](/screenshots/5.jpg)
+
+![GitHub Logo](/screenshots/4.jpg)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
