@@ -11,11 +11,6 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 ## Screenshots
 ![GitHub Logo](/screenshots/1.jpg)              ![GitHub Logo](/screenshots/7.jpg)
 
-![GitHub Logo](/screenshots/2.jpg)              ![GitHub Logo](/screenshots/6.jpg)
-
-![GitHub Logo](/screenshots/3.jpg)              ![GitHub Logo](/screenshots/5.jpg)
-
-![GitHub Logo](/screenshots/4.jpg)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
