@@ -13,5 +13,7 @@ Weatherify Android App parses ```openweather.org``` API and displays the weather
 
 ![GitHub Logo](/screenshots/7.jpg)
 
+### I would apreciate a star :)
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
